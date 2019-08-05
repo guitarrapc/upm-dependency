@@ -1,0 +1,12 @@
+{
+  "name": "upm.test.dependencies",
+  "dependencies": {},
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "displayName": "upm test dependency dayo!",
+  "description": "",
+  "keywords": [
+    "unity"
+  ],
+  "readme": "this is test message with dependent!"
+}
