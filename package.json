@@ -1,7 +1,7 @@
 {
   "name": "com.guitarrapc.upm.dependency",
   "displayName": "Test Unity Package Dependency",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2018.3",
   "description": "",
   "keywords": [
